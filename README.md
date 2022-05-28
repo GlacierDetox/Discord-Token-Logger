@@ -6,3 +6,6 @@
 
 ## Support
 * [Discord server](https://discord.gg/playzxd)
+
+## Note
+* For educational purpose only

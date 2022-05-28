@@ -1,6 +1,6 @@
 # Discord-Token-Logger
  
-A Discord Token Logger.
+A Discord Token Logger. (Will be updated probably)
 
 
 ## Usage

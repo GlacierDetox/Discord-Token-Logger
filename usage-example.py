@@ -1,5 +1,7 @@
 import requests
 
-r = requests.post("https://elementaryprevioussymbol.terimaarankichw.repl.co", headers={"token": token})
+web_url = "" # Your api url
+
+r = requests.post(web_url, headers={"token": token})
 print(r.json())
 print(r.status_code)

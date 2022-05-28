@@ -4,7 +4,7 @@ A Discord Token Logger. (Will be updated in future probably)
 
 
 ## Usage
-* ~~Figure it out yourself~~ Will be updated, i'm lazy.
+* ~~Figure it out yourself~~ This will be updated, i'm lazy.
 
 ## Note
 * Don't skid, give credits,

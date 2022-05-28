@@ -1,6 +1,6 @@
 # Discord-Token-Logger
  
-A easy RESTful
+A Discord Token Logger with which your webhook won't be spammed/deleted.
 
 
 ## Usage
